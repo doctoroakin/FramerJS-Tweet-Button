@@ -5,4 +5,6 @@ I decided that I don't really like the "create a new tweet" functionality in the
 
 Feel Free to use this as a starting point and to tweet me @jval3nti with any questions.  There are optional .png's to use in the images folder as well.
 
+DEMO: http://share.framerjs.com/vefvjj9bh1kk/
+
 Check out: http://framerjs.com/
